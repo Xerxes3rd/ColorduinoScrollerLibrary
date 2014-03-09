@@ -6,16 +6,16 @@ ColorduinoPanel Colorduino;
 
 
 
-Scroll::Scroll(String text, int scrollspeed, int tr, int tg, int tb, int br, int bg, int bb){
+Scroll::Scroll(String text, int scrollspeed, int tr, int tg, int tb, int br, int bg, int bb, int displaynumber){
 
-
+  startdelay = scrollspeed*8*displaynumber;
   randomSeed(analogRead(0));
 
   Colorduino.init();
 
 
   Colorduino.setWhiteBalance(36, 63, 63); // Set white balance
-
+  delay(startdelay);
 
 
   int numberofcharacters = text.length();

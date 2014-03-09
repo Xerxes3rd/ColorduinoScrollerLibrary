@@ -7,8 +7,8 @@ void setup(){
 
 }
 void loop(){
-
-  Scroll("Scrolling Text!", 100, 255, 255, 255, 0, 0, 0);
+//Scroll("String!", delay, textcolred, textcolgreen, textcolblue, bgcolred, bgcolgreen, bgcolblue, displaynumber)
+  Scroll("Scrolling Text!", 100, 255, 255, 255, 0, 0, 0, 1);
 //Maximum of 20 Characters in one Instance of "Scroll"
 }
 
