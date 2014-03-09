@@ -8,7 +8,7 @@ void setup(){
 }
 void loop(){
 
-  Scroll("YESH", 100, 255, 255, 255, 0, 0, 0);
+  Scroll("Scrolling Text!", 100, 255, 255, 255, 0, 0, 0);
 //Maximum of 20 Characters in one Instance of "Scroll"
 }
 
