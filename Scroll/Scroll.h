@@ -13,7 +13,7 @@ class Scroll
 
 Scroll();
 
-    Scroll(String text, int scrollspeed, int tr, int tg, int tb, int br, int bg, int bb);
+    Scroll(String text, int scrollspeed, int tr, int tg, int tb, int br, int bg, int bb, int displaynumber);
 
     
   
