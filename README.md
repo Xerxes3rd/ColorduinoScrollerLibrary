@@ -10,6 +10,7 @@ Features
 - Up to 20 character message!
 - Easy to Write messages
 - Supports all ASCII: Love hearts, arrows, you name it!
+- Multiple Displays
 
 Libraries
 =========
