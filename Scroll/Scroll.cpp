@@ -8,7 +8,7 @@ ColorduinoPanel Colorduino;
 
 Scroll::Scroll(String text, int scrollspeed, int tr, int tg, int tb, int br, int bg, int bb, int displaynumber){
 
-  startdelay = scrollspeed*8*displaynumber;
+  int startdelay = scrollspeed*8*displaynumber;
   randomSeed(analogRead(0));
 
   Colorduino.init();
