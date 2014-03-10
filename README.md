@@ -2,7 +2,7 @@ ColorduinoScrollerLibrary
 =========================
 
 A add on library for the GFX Library by Adafruit and the Colorduino GFX Library by DinoTools                                
--Made By Zane Carter :D
+-Made By Zane Carter :D                                                                                                   
 -Multiple Display support and major code modifications added by Jack Broadway :D
 
 Features
