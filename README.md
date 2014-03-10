@@ -1,9 +1,8 @@
 ColorduinoScrollerLibrary
 =========================
 
-A add on library for the GFX Library by Adafruit and the Colorduino GFX Library by DinoTools  
-
-Author: Zane Carter                                                                                         Co-Author/Major Modifier: Jack Broadway
+A add on library for the GFX Library by Adafruit and the Colorduino GFX Library by DinoTools
+-Author: Zane Carter                                                                                         -Co-Author/Major Modifier: Jack Broadway
 
 Features
 ========
