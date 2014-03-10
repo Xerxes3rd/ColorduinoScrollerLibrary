@@ -23,4 +23,4 @@ TODO
 ====
 
 - Add individual letter colors []
-- More Characters
+- More Characters []
