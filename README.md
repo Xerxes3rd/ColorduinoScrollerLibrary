@@ -10,7 +10,7 @@ Features
 ========
 
 
-- Up to 20 character message!
+- Up to 20 character message (Per Scrolling Instance, you can have large messages with multiple scroll instances!
 - Easy to Write messages
 - Multiple Displays
 
