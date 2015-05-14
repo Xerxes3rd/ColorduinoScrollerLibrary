@@ -1,12 +1,12 @@
 #include <Adafruit_GFX.h>
 #include <Colorduino_GFX.h>
-#include <Scroll.h>
+#include <ColorduinoScroll.h>
 ColorduinoPanel Colorduino; 
 
 
 
 
-Scroll::Scroll(String text, int scrollspeed, int tr, int tg, int tb, int br, int bg, int bb, int displaynumber){
+ColorduinoScroll::ColorduinoScroll(String text, int scrollspeed, int tr, int tg, int tb, int br, int bg, int bb, int displaynumber){
 
   int startdelay = scrollspeed*8*displaynumber;
   randomSeed(analogRead(0));
