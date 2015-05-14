@@ -1,4 +1,4 @@
 
-Scroll	KEYWORD2
+ColorduinoScroll	KEYWORD2
 
 
